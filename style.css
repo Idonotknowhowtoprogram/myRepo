@@ -4,6 +4,6 @@ text-align: center;
 }
 body {
 background-image: url("20220929_195602.jpg")
-
+background-attachment: scroll;
 }
 scroll-behavior: auto;
